@@ -1,4 +1,5 @@
-<center>![Awesome](https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png)</center>
+<center>
+  <img src="https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png" alt=""></center>
 
 
 
