@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png" alt="" style="margin:auto">
+  <img src="https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png" alt="" style="float:right">
 
 
 # Awesome things on the blockchain <!--[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bico-media/awesome) -->
