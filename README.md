@@ -11,7 +11,7 @@
 - [Cellular automata](https://bico.media/f830cad9c888f1715b7af7350aeff24676a5c00295928da631a71fb965fb58e8)
 - [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e.html)
 
-### Websites/apps
+### Websites / Apps
 
 - [First website 100% on the blockchain?](https://bico.media/729dcc63aa3cf388296177e86a564f8cd5d112be1a3cd43f5c71195fe5eab716.html)
 - [What do you wish in 2019?](https://bico.media/c5b1e42d3ebcf0cdd348b255f77064f1fe59adb333c417118b795e80886cc2aa.html)
