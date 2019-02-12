@@ -6,6 +6,7 @@
 
 ### Games / playfull
 
+- [Cookie Clicker game](https://bico.media/51ee979caa82de4f8f0e17a745d0d372c9da95a24228c05cc3ffe54e242d7d27)
 - [Snakes on a Chain](https://bico.media/de372321d049ef6ca0fdb1e80f37b57f8473bdf5a90fee3451a68221915b72a0.html)
 - [Supermario](https://bico.media/ffe8f32c9003a50a82a7d1a68a4ca40cbc0429718e483c8dc79fbd6ddc8a4089.html)
 - [Cellular automata](https://bico.media/f830cad9c888f1715b7af7350aeff24676a5c00295928da631a71fb965fb58e8)
