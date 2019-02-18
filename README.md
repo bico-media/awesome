@@ -16,7 +16,9 @@
 - [Piano](https://bico.media/0a68bb439a78ab5a721f0a139abedcbe0259f7f050fbba2ebed6006bb953bd5e.html)
 - [Chill (45s)](https://bico.media/5ec3aa4453d29a270ebef1a7390e36082833ff00fcd3fbff1188f618a5fa4037)
 
+### Art
 
+- [Planty](https://bico.media/f4d0765ed0f5c129ac9006b71a61fb51b324161bb7bca1b04d81dd9b8062fc1d)
 
 ### Video
 
