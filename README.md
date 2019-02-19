@@ -27,6 +27,7 @@
 
 ### Games / playfull
 
+- [Mario POC-ish](https://bico.media/c3825037851ac15e9a0887da0a2b6ad49d126b4ff3f362d38e4b32a0e9b3807e)
 - [AI playing flappy](https://bico.media/7a304727ff7fc11916d281118a270e7faea5f48a03713f250ea416109a082593)
 - [Tetris SV](https://bico.media/14734bc19a533ab6c510ebd419ad1e980603b1f62084b3f24b7c3d440ec6bfea)
 - [Cookie Clicker game](https://bico.media/51ee979caa82de4f8f0e17a745d0d372c9da95a24228c05cc3ffe54e242d7d27)
