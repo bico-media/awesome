@@ -9,7 +9,7 @@
 - [Transaction volumen](https://bico.media/a3deeef957f7079642c2169dc37b12856fd083ea2c7e762830bb9cf627561326.html)
 - [First website 100% on the blockchain?](https://bico.media/729dcc63aa3cf388296177e86a564f8cd5d112be1a3cd43f5c71195fe5eab716.html)
 - [What do you wish in 2019?](https://bico.media/c5b1e42d3ebcf0cdd348b255f77064f1fe59adb333c417118b795e80886cc2aa.html)
-- [The Bitcoin whitepaper text](https://bico.media/df356acebad6642bf7859d2de48eb3d6e3917d9cd360dcb8eea02ca7d7602206.html)
+- [The Bitcoin whitepaper as text](https://bico.media/df356acebad6642bf7859d2de48eb3d6e3917d9cd360dcb8eea02ca7d7602206.html)
 
 ### Audio
 
@@ -19,6 +19,7 @@
 ### Art
 
 - [Planty](https://bico.media/f4d0765ed0f5c129ac9006b71a61fb51b324161bb7bca1b04d81dd9b8062fc1d)
+- [The original Bitcoin whitepaper (pdf)](https://bico.media/bb98efaa2044b0fd23bf76a5f8ce54573e07db268bc0e23e77d14d9d8955d5e4)
 
 ### Video
 
