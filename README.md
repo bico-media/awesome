@@ -17,9 +17,12 @@
 - [Chill (45s)](https://bico.media/5ec3aa4453d29a270ebef1a7390e36082833ff00fcd3fbff1188f618a5fa4037)
 
 ### Art
-
 - [Planty](https://bico.media/f4d0765ed0f5c129ac9006b71a61fb51b324161bb7bca1b04d81dd9b8062fc1d)
+
+
+### Words
 - [The original Bitcoin whitepaper (pdf)](https://bico.media/bb98efaa2044b0fd23bf76a5f8ce54573e07db268bc0e23e77d14d9d8955d5e4)
+- [The original constitution from 1787 for the United States of Amarica](https://bico.media/4c97b18d3f157b593045fe1525f5fdc608bc207e4729964855604ad40dc77e0f)
 
 ### Video
 
